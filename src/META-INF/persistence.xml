@@ -16,7 +16,7 @@
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/realestatmis"/>
 			<property name="javax.persistence.jdbc.user" value="rehan"/>
-			<property name="javax.persistence.jdbc.password" value="Skt@2567701"/>
+			<property name="javax.persistence.jdbc.password" value="*********"/>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
  		<property name="javax.persistence.schema-generation.database.action" value="drop-and-create"/>
 			<property name="eclipselink.ddl-generation" value="create-or-extend-tables"/>
